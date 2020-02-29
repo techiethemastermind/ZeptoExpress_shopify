@@ -1,0 +1,601 @@
+Array
+(
+    [id] => 1956784144517
+    [email] => liyana.bd@gmail.com
+    [closed_at] => 2020-01-20T04:23:35+08:00
+    [created_at] => 2020-01-20T04:22:52+08:00
+    [updated_at] => 2020-01-20T04:23:35+08:00
+    [number] => 9
+    [note] => 
+    [token] => 80da6273e04a356f89fb73d01417f021
+    [gateway] => Cash on Delivery (COD)
+    [test] => 
+    [total_price] => 1.16
+    [subtotal_price] => 1.00
+    [total_weight] => 1200
+    [total_tax] => 0.06
+    [taxes_included] => 
+    [currency] => MYR
+    [financial_status] => paid
+    [confirmed] => 1
+    [total_discounts] => 0.00
+    [total_line_items_price] => 1.00
+    [cart_token] => 
+    [buyer_accepts_marketing] => 
+    [name] => #1009
+    [referring_site] => https://zeptoexpressapp.myshopify.com/collections/frontpage/products/zepto-fleet-source-code
+    [landing_site] => /wallets/checkouts.json
+    [cancelled_at] => 
+    [cancel_reason] => 
+    [total_price_usd] => 0.29
+    [checkout_token] => 4a878db08c9b8fdebb4552f2b6c09a3c
+    [reference] => 
+    [user_id] => 
+    [location_id] => 
+    [source_identifier] => 
+    [source_url] => 
+    [processed_at] => 2020-01-20T04:22:51+08:00
+    [device_id] => 
+    [phone] => 
+    [customer_locale] => en
+    [app_id] => 580111
+    [browser_ip] => 202.184.36.166
+    [landing_site_ref] => 
+    [order_number] => 1009
+    [discount_applications] => Array
+        (
+        )
+
+    [discount_codes] => Array
+        (
+        )
+
+    [note_attributes] => Array
+        (
+        )
+
+    [payment_gateway_names] => Array
+        (
+            [0] => Cash on Delivery (COD)
+        )
+
+    [processing_method] => manual
+    [checkout_id] => 12189507321989
+    [source_name] => web
+    [fulfillment_status] => fulfilled
+    [tax_lines] => Array
+        (
+            [0] => Array
+                (
+                    [price] => 0.06
+                    [rate] => 0.06
+                    [title] => SST
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.06
+                                    [currency_code] => MYR
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.06
+                                    [currency_code] => MYR
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [tags] => 
+    [contact_email] => liyana.bd@gmail.com
+    [order_status_url] => https://zeptoexpressapp.myshopify.com/30700863621/orders/80da6273e04a356f89fb73d01417f021/authenticate?key=e79e8ca5e1d2555d3b69791e80542113
+    [presentment_currency] => MYR
+    [total_line_items_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 1.00
+                    [currency_code] => MYR
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 1.00
+                    [currency_code] => MYR
+                )
+
+        )
+
+    [total_discounts_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => MYR
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.00
+                    [currency_code] => MYR
+                )
+
+        )
+
+    [total_shipping_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.10
+                    [currency_code] => MYR
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.10
+                    [currency_code] => MYR
+                )
+
+        )
+
+    [subtotal_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 1.00
+                    [currency_code] => MYR
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 1.00
+                    [currency_code] => MYR
+                )
+
+        )
+
+    [total_price_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 1.16
+                    [currency_code] => MYR
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 1.16
+                    [currency_code] => MYR
+                )
+
+        )
+
+    [total_tax_set] => Array
+        (
+            [shop_money] => Array
+                (
+                    [amount] => 0.06
+                    [currency_code] => MYR
+                )
+
+            [presentment_money] => Array
+                (
+                    [amount] => 0.06
+                    [currency_code] => MYR
+                )
+
+        )
+
+    [line_items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4363097833605
+                    [variant_id] => 31903839158405
+                    [title] => Zepto Fleet Source Code
+                    [quantity] => 1
+                    [sku] => 1000
+                    [variant_title] => 
+                    [vendor] => ZeptoExpressApp
+                    [fulfillment_service] => manual
+                    [product_id] => 4478062854277
+                    [requires_shipping] => 1
+                    [taxable] => 1
+                    [gift_card] => 
+                    [name] => Zepto Fleet Source Code
+                    [variant_inventory_management] => shopify
+                    [properties] => Array
+                        (
+                        )
+
+                    [product_exists] => 1
+                    [fulfillable_quantity] => 0
+                    [grams] => 1200
+                    [price] => 1.00
+                    [total_discount] => 0.00
+                    [fulfillment_status] => fulfilled
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 1.00
+                                    [currency_code] => MYR
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 1.00
+                                    [currency_code] => MYR
+                                )
+
+                        )
+
+                    [total_discount_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => MYR
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.00
+                                    [currency_code] => MYR
+                                )
+
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                    [admin_graphql_api_id] => gid://shopify/LineItem/4363097833605
+                    [tax_lines] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [title] => SST
+                                    [price] => 0.06
+                                    [rate] => 0.06
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 0.06
+                                                    [currency_code] => MYR
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 0.06
+                                                    [currency_code] => MYR
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [origin_location] => Array
+                        (
+                            [id] => 1717294170245
+                            [country_code] => MY
+                            [province_code] => KUL
+                            [name] => ZeptoExpressApp
+                            [address1] => Menara Suezcap 1,Unit D-05-01
+                            [address2] => 
+                            [city] => Bangsar South
+                            [zip] => 59200
+                        )
+
+                )
+
+        )
+
+    [fulfillments] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1835809210501
+                    [order_id] => 1956784144517
+                    [status] => success
+                    [created_at] => 2020-01-20T04:23:27+08:00
+                    [service] => manual
+                    [updated_at] => 2020-01-20T04:23:27+08:00
+                    [tracking_company] => 
+                    [shipment_status] => 
+                    [location_id] => 38023397509
+                    [line_items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 4363097833605
+                                    [variant_id] => 31903839158405
+                                    [title] => Zepto Fleet Source Code
+                                    [quantity] => 1
+                                    [sku] => 1000
+                                    [variant_title] => 
+                                    [vendor] => ZeptoExpressApp
+                                    [fulfillment_service] => manual
+                                    [product_id] => 4478062854277
+                                    [requires_shipping] => 1
+                                    [taxable] => 1
+                                    [gift_card] => 
+                                    [name] => Zepto Fleet Source Code
+                                    [variant_inventory_management] => shopify
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [product_exists] => 1
+                                    [fulfillable_quantity] => 0
+                                    [grams] => 1200
+                                    [price] => 1.00
+                                    [total_discount] => 0.00
+                                    [fulfillment_status] => fulfilled
+                                    [price_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 1.00
+                                                    [currency_code] => MYR
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 1.00
+                                                    [currency_code] => MYR
+                                                )
+
+                                        )
+
+                                    [total_discount_set] => Array
+                                        (
+                                            [shop_money] => Array
+                                                (
+                                                    [amount] => 0.00
+                                                    [currency_code] => MYR
+                                                )
+
+                                            [presentment_money] => Array
+                                                (
+                                                    [amount] => 0.00
+                                                    [currency_code] => MYR
+                                                )
+
+                                        )
+
+                                    [discount_allocations] => Array
+                                        (
+                                        )
+
+                                    [admin_graphql_api_id] => gid://shopify/LineItem/4363097833605
+                                    [tax_lines] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [title] => SST
+                                                    [price] => 0.06
+                                                    [rate] => 0.06
+                                                    [price_set] => Array
+                                                        (
+                                                            [shop_money] => Array
+                                                                (
+                                                                    [amount] => 0.06
+                                                                    [currency_code] => MYR
+                                                                )
+
+                                                            [presentment_money] => Array
+                                                                (
+                                                                    [amount] => 0.06
+                                                                    [currency_code] => MYR
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [origin_location] => Array
+                                        (
+                                            [id] => 1717294170245
+                                            [country_code] => MY
+                                            [province_code] => KUL
+                                            [name] => ZeptoExpressApp
+                                            [address1] => Menara Suezcap 1,Unit D-05-01
+                                            [address2] => 
+                                            [city] => Bangsar South
+                                            [zip] => 59200
+                                        )
+
+                                )
+
+                        )
+
+                    [tracking_number] => 
+                    [tracking_numbers] => Array
+                        (
+                        )
+
+                    [tracking_url] => 
+                    [tracking_urls] => Array
+                        (
+                        )
+
+                    [receipt] => Array
+                        (
+                        )
+
+                    [name] => #1009.1
+                    [admin_graphql_api_id] => gid://shopify/Fulfillment/1835809210501
+                )
+
+        )
+
+    [refunds] => Array
+        (
+        )
+
+    [total_tip_received] => 0.0
+    [admin_graphql_api_id] => gid://shopify/Order/1956784144517
+    [shipping_lines] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1602010382469
+                    [title] => ZepToExpress Delivery
+                    [price] => 0.10
+                    [code] => ZTS
+                    [source] => Shipping Rate Provider
+                    [phone] => 
+                    [requested_fulfillment_service_id] => 
+                    [delivery_category] => 
+                    [carrier_identifier] => 4fb4703780c83a7f530ff2c59c1383fd
+                    [discounted_price] => 0.10
+                    [price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.10
+                                    [currency_code] => MYR
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.10
+                                    [currency_code] => MYR
+                                )
+
+                        )
+
+                    [discounted_price_set] => Array
+                        (
+                            [shop_money] => Array
+                                (
+                                    [amount] => 0.10
+                                    [currency_code] => MYR
+                                )
+
+                            [presentment_money] => Array
+                                (
+                                    [amount] => 0.10
+                                    [currency_code] => MYR
+                                )
+
+                        )
+
+                    [discount_allocations] => Array
+                        (
+                        )
+
+                    [tax_lines] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [billing_address] => Array
+        (
+            [first_name] => Liyana
+            [address1] => Mutiara Ville
+            [phone] => 
+            [city] => Cyberjaya
+            [zip] => 63200
+            [province] => Selangor
+            [country] => Malaysia
+            [last_name] => Belal Din
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Liyana Belal Din
+            [country_code] => MY
+            [province_code] => SGR
+        )
+
+    [shipping_address] => Array
+        (
+            [first_name] => Liyana
+            [address1] => Mutiara Ville
+            [phone] => 
+            [city] => Cyberjaya
+            [zip] => 63200
+            [province] => Selangor
+            [country] => Malaysia
+            [last_name] => Belal Din
+            [address2] => 
+            [company] => 
+            [latitude] => 
+            [longitude] => 
+            [name] => Liyana Belal Din
+            [country_code] => MY
+            [province_code] => SGR
+        )
+
+    [client_details] => Array
+        (
+            [browser_ip] => 202.184.36.166
+            [accept_language] => en-GB,en-US;q=0.9,en;q=0.8
+            [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+            [session_hash] => 
+            [browser_width] => 1680
+            [browser_height] => 901
+        )
+
+    [customer] => Array
+        (
+            [id] => 2921388933253
+            [email] => liyana.bd@gmail.com
+            [accepts_marketing] => 
+            [created_at] => 2020-01-20T03:41:35+08:00
+            [updated_at] => 2020-01-20T04:22:52+08:00
+            [first_name] => Mohd Izzairi
+            [last_name] => Yamin
+            [orders_count] => 4
+            [state] => disabled
+            [total_spent] => 4.64
+            [last_order_id] => 1956784144517
+            [note] => 
+            [verified_email] => 1
+            [multipass_identifier] => 
+            [tax_exempt] => 
+            [phone] => 
+            [tags] => 
+            [last_order_name] => #1009
+            [currency] => MYR
+            [accepts_marketing_updated_at] => 2020-01-20T03:41:35+08:00
+            [marketing_opt_in_level] => 
+            [admin_graphql_api_id] => gid://shopify/Customer/2921388933253
+            [default_address] => Array
+                (
+                    [id] => 3042607693957
+                    [customer_id] => 2921388933253
+                    [first_name] => Liyana
+                    [last_name] => Belal Din
+                    [company] => 
+                    [address1] => Mutiara Ville
+                    [address2] => 
+                    [city] => Cyberjaya
+                    [province] => Selangor
+                    [country] => Malaysia
+                    [zip] => 63200
+                    [phone] => 
+                    [name] => Liyana Belal Din
+                    [province_code] => SGR
+                    [country_code] => MY
+                    [country_name] => Malaysia
+                    [default] => 1
+                )
+
+        )
+
+)
